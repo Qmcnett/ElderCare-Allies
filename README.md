@@ -14,3 +14,7 @@ Created a website to provide support for seniors experiencing social loneliness 
 * Interactive signup form for community participation
 * User interface enhancements like a theme toggle (Dark Mode) and accessibility options (Reduce Motion)
 * Dynamic content elements (e.g., displaying recent sign-ups)
+
+
+## License
+This project is licensed under the MIT License. (See the `LICENSE` file for details.)
