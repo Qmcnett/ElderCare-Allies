@@ -1,2 +1,2 @@
 # ElderCare-Allies
-An interactive web app where users can sign a petition, switch to dark mode, and view a live supporter count. Features form validation, animated content reveals, and a thank-you confirmation modal
+Created a website to provide support for seniors experiencing social loneliness and to raise awareness about these issues, inspiring others to take action by volunteering. The website aims to serve as a platform for connecting seniors with much-needed companionship and assistance while also motivating individuals to contribute their time and efforts toward addressing the prevalent issue of social isolation among the elderly.
