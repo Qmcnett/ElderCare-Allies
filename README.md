@@ -18,3 +18,8 @@ Created a website to provide support for seniors experiencing social loneliness 
 
 ## License
 This project is licensed under the MIT License. (See the `LICENSE` file for details.)
+
+
+
+## Live Demo
+You can view the live project here: https://qmcnett.github.io/ElderCare-Allies/
